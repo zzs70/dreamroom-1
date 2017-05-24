@@ -12,6 +12,5 @@
     <bytecodeTargetLevel>
       <module name="dream" target="1.7" />
     </bytecodeTargetLevel>
-    <!-- 这是修改的文件-->
   </component>
 </project>
