@@ -5,8 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dreamroom</groupId>
-    <artifactId>dream</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>dream
 
+
+    </artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <dependencies>
+    </dependencies>
 
 </project>
