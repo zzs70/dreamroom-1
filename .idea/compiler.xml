@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="_111" />
         <module name="dream" />
         <module name="dream02" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="_111" target="1.5" />
       <module name="dream" target="1.7" />
       <module name="dream02" target="1.5" />
     </bytecodeTargetLevel>
